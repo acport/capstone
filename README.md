@@ -4,7 +4,7 @@ This is my portfolio for my capstone class for my BA in Spanish. I thought I wou
 
 ##Schedule
 
-	| Date | Description |
+| Date | Description |
 | ----------- | ----------- |
 | 5/6 | Syllabus, ACTFL criteria |
 | 5/13 | Prepare CV and cover letter |
