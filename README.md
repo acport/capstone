@@ -2,7 +2,7 @@
 
 This is my portfolio for my capstone class for my BA in Spanish. I thought I would use my CS minor to incorporate more fancy website! And this happens to be my first website that I would have created. Technically, I got the format of this site from online, but all the editing details and contents is done by me!
 
-##Schedule
+## Schedule
 
 | Date | Description |
 | ----------- | ----------- |
